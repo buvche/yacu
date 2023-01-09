@@ -6,8 +6,6 @@ import requests
 import socket
 import CloudFlare
 
-os.environ['c_token'] = 'ER7d6OC-_x14TqZNcNiPNstOFse4phW-4aVUrlTN'
-os.environ['c_hostname'] = 'cloud.stojanovski.me'
 
 # MANDATORY_ENV_VARS = ["c_token", "c_hostname"]
 
